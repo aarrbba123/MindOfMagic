@@ -1,5 +1,3 @@
-name: "Алтарь самопожертвования"
-description: "[white]Соберает [red]кровь [white]в бак"
 health: 500
 requirements:[
 copper/100
