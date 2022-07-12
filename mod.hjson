@@ -1,7 +1,7 @@
 name: mindofmagic
 displayName: MindOfMagic
 description: Pre-alpha version of mod
-version: 0.4.1 alpha
+version: 0.4.2 alpha
 author: paulieg626 and ko4nev812
 minGameVersion: 126.2
 dependencies:[] 
